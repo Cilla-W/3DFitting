@@ -8,17 +8,17 @@ Simulate cloth effects by [OpenGL](http://www.opengl.org/)
  - [Team members](#team-members)
  - [Project struct](#project-struct)
 
-## Time
+## Last time
 2013.05 - 2014.04
 
-## Members
+## Team members
 CS, NJU
  - Shunlei Tang
  - Sun Min
  - Qi Wang
  - Min Wang
 
-## Struct
+## Project struct
 Microsoft Visual Studio 2010
 OpenGL 3.0
 ```
