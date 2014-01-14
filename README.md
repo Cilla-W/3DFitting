@@ -4,9 +4,9 @@ Simulate cloth effects by [OpenGL](http://www.opengl.org/)
 
 ## Content
 
- - [Time](#Time)
- - [Members](#Members)
- - [Struct](#Struct)
+ - [Last time](#last-time)
+ - [Team members](#team-members)
+ - [Project struct](#project-struct)
 
 ## Time
 2013.05 - 2014.04
